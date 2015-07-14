@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Year of Lisp</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-06-24T00:00:00-05:00</updated><entry><title>Smoke-Test</title><link href="/smoke.html" rel="alternate"></link><updated>2015-06-24T00:00:00-05:00</updated><author><name>dtp</name></author><id>tag:,2015-06-24:smoke.html</id><summary type="html">&lt;p&gt;Just a test, nothing but a test.
+Ab Jove principium --everything begins with Jupiter.  And we too must begin there, at this non-existent point from which all things are born.&lt;/p&gt;
+</summary></entry></feed>
